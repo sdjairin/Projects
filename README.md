@@ -28,7 +28,7 @@ A key feature of this platform is the dedicated admin panel, which allows for ef
 * Stripe Payment Integration: The integration of Stripe for payment processing highlights the ability to work with external APIs and handle secure transactions.
 * Comprehensive Full-Stack Showcase: The project serves as a complete demonstration of full-stack development skills, from UI/UX design to database management and secure payments.
 
-**Live Demo:** [[https://your-project-1-vercel-link.vercel.app](https://crisp-frontend.vercel.app/)]
+**Live Demo:** [[Live Demo](https://crisp-frontend.vercel.app/)]
 
 
 ## Getting Started
