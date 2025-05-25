@@ -28,6 +28,26 @@ A key feature of this platform is the dedicated admin panel, which allows for ef
 * Stripe Payment Integration: The integration of Stripe for payment processing highlights the ability to work with external APIs and handle secure transactions.
 * Comprehensive Full-Stack Showcase: The project serves as a complete demonstration of full-stack development skills, from UI/UX design to database management and secure payments.
 
+
+
+**Live Demo:** [[Live Demo](https://crisp-frontend.vercel.app/)]
+
+---
+
+### Project 2: Real-time Chat Application
+This project is a fully functional real-time chat application built with the MERN stack (MongoDB, Express.js, React, Node.js), enhanced with Socket.IO for instant messaging and styled with Tailwind CSS. It offers users a seamless and dynamic communication experience.
+
+The front-end, developed with React and styled using Tailwind CSS, provides a modern, responsive, and intuitive user interface. On the back-end, Express.js and Node.js power a fast and secure API, while MongoDB handles all message and user data storage. The integration of Socket.IO enables real-time bidirectional communication, which is essential for the instant messaging functionality. This project demonstrates a comprehensive understanding of full-stack development, from UI/UX design to real-time data processing and database management.
+
+**Key Features:**
+* MERN Stack Implementation: The entire project is built using MongoDB, Express.js, React, and Node.js, showcasing a modern full-stack approach.
+* React Front-end: The user interface is developed with React, ensuring a dynamic and interactive chat experience.
+* Tailwind CSS Styling: Tailwind CSS is used for front-end styling, indicating proficiency with utility-first CSS frameworks and enabling a clean, responsive design.
+* Express.js & Node.js Backend: The back-end is robust and efficient, built with Express.js and Node.js, responsible for all API functionalities and handling chat messages.
+* MongoDB Database: MongoDB is utilized for data storage, showcasing experience with NoSQL databases for managing chat history and user profiles.
+* Socket.IO for Real-time Communication: The integration of Socket.IO is crucial for real-time bidirectional communication, enabling instant messaging and status updates.
+* Comprehensive Full-Stack Showcase: This project serves as a complete demonstration of full-stack development skills, from UI/UX design to real-time functionality and database management.
+
 **Live Demo:** [[Live Demo](https://crisp-frontend.vercel.app/)]
 
 
