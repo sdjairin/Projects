@@ -28,9 +28,14 @@ A key feature of this platform is the dedicated admin panel, which allows for ef
 * Stripe Payment Integration: The integration of Stripe for payment processing highlights the ability to work with external APIs and handle secure transactions.
 * Comprehensive Full-Stack Showcase: The project serves as a complete demonstration of full-stack development skills, from UI/UX design to database management and secure payments.
 
+---
 
-
-**Live Demo:** [[Live Demo](https://crisp-frontend.vercel.app/)]
+**How to Use This Project:**
+* **Live Demo:** [[Live Demo](https://crisp-frontend.vercel.app/)]
+* **Stripe Payment Testing:** To test the payment functionality, you can use dummy credit card numbers provided by Stripe. Visit the official [[Stripe documentation for test cards](https://docs.stripe.com/testing)] to find valid test card details (e.g., card numbers, expiry dates, CVCs) that won't process real payments.
+* **Admin Panel Access:**
+    * **Email:** admin@crisp.com
+    * **Password:** qwerty123
 
 ---
 
