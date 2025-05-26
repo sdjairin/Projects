@@ -51,7 +51,7 @@ The front-end, developed with React and styled using Tailwind CSS, provides a mo
 * **Socket.IO for Real-time Communication:** The integration of Socket.IO is crucial for real-time bidirectional communication, enabling instant messaging and status updates.
 * **Comprehensive Full-Stack Showcase:** This project serves as a complete demonstration of full-stack development skills, from UI/UX design to real-time functionality and database management.
 
-**Live Demo:** [[Live Demo](https://crisp-frontend.vercel.app/)]
+**Live Demo:** [[Live Demo](https://chat-app-nu-gold.vercel.app/login)]
 
 
 ## Getting Started
