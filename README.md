@@ -71,8 +71,6 @@ The website is developed using Next.js for optimal performance, SEO, and a strea
 8 **Responsive Design:** The design is fully responsive, adapting seamlessly to various screen sizes and devices.
 * **Modern Technologies Showcase:** This project demonstrates a practical application of recent and in-demand front-end technologies and design principles.
 
-**Website:** [[www.shaquille-djairin.com](https://www.shaquille-djairin.com)] 
-
 
 ## Getting Started
 
@@ -98,7 +96,7 @@ To run any of these projects locally, navigate to the respective project folder 
 ## Connect With Me
 
 * **LinkedIn:** www.linkedin.com/in/shaquille-djairin
-* **Portfolio/Website:** [Your Personal Portfolio/Website URL (if you have one)]
+* **Portfolio/Website:** [[www.shaquille-djairin.com](https://www.shaquille-djairin.com)] 
 
 ---
 
