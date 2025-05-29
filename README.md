@@ -96,7 +96,7 @@ To run any of these projects locally, navigate to the respective project folder 
 ## Connect With Me
 
 * **LinkedIn:** www.linkedin.com/in/shaquille-djairin
-* **Portfolio/Website:** [[www.shaquille-djairin.com](https://www.shaquille-djairin.com)] 
+* **Portfolio/Website:** https://www.shaquille-djairin.com 
 
 ---
 
