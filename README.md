@@ -38,6 +38,7 @@ A key feature of this platform is the dedicated admin panel, which allows for ef
 ---
 
 ### Project 2: Real-time Chat Application
+
 This project is a fully functional real-time chat application built with the MERN stack (MongoDB, Express.js, React, Node.js), enhanced with Socket.IO for instant messaging and styled with Tailwind CSS. It offers users a seamless and dynamic communication experience.
 
 The front-end, developed with React and styled using Tailwind CSS, provides a modern, responsive, and intuitive user interface. On the back-end, Express.js and Node.js power a fast and secure API, while MongoDB handles all message and user data storage. The integration of Socket.IO enables real-time bidirectional communication, which is essential for the instant messaging functionality. This project demonstrates a comprehensive understanding of full-stack development, from UI/UX design to real-time data processing and database management.
@@ -52,6 +53,25 @@ The front-end, developed with React and styled using Tailwind CSS, provides a mo
 * **Comprehensive Full-Stack Showcase:** This project serves as a complete demonstration of full-stack development skills, from UI/UX design to real-time functionality and database management.
 
 **Live Demo:** [[Live Demo](https://chat-app-nu-gold.vercel.app/login)]
+
+---
+
+### Project 3: Personal Portfolio Website
+
+This project is my personal portfolio website, meticulously designed and built with Next.js, Tailwind CSS, and React. It serves as a dynamic showcase of my projects and skills, with a strong focus on a fluid user experience and a modern design.
+
+The website is developed using Next.js for optimal performance, SEO, and a streamlined development process. The front-end, crafted with React and styled with Tailwind CSS, ensures a responsive and intuitive user interface. A key feature of this portfolio is the integration of Framer Motion for elegant and responsive animations, significantly enhancing interactivity and aesthetics. Furthermore, the site offers seamless switching between a light and dark mode, contributing to accessibility and user preference. This project demonstrates my ability to combine advanced web technologies to create a high-quality, interactive, and visually appealing online presence.
+
+**Key Features:**
+* **Next.js Framework:** The website is built with Next.js, enabling server-side rendering (SSR) or static site generation (SSG) for improved performance and SEO.
+* **React Front-end:** The user interface is developed with React, ensuring a dynamic and modular component structure.
+* **Tailwind CSS Styling:** Tailwind CSS is used for styling, showcasing a utility-first approach for a fast, responsive, and customizable design.
+* **Framer Motion Animations:** Integration of Framer Motion for smooth and engaging UI animations, enriching the user experience and demonstrating attention to detail.
+* **Light and Dark Mode:** Implementation of a theme switcher that allows users to toggle between light and dark color schemes, enhancing accessibility and personalization.
+8 **Responsive Design:** The design is fully responsive, adapting seamlessly to various screen sizes and devices.
+* **Modern Technologies Showcase:** This project demonstrates a practical application of recent and in-demand front-end technologies and design principles.
+
+**Website:** [[www.shaquille-djairin.com](https://www.shaquille-djairin.com)] 
 
 
 ## Getting Started
