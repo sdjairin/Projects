@@ -71,6 +71,33 @@ The website is developed using Next.js for optimal performance, SEO, and a strea
 8 **Responsive Design:** The design is fully responsive, adapting seamlessly to various screen sizes and devices.
 * **Modern Technologies Showcase:** This project demonstrates a practical application of recent and in-demand front-end technologies and design principles.
 
+---
+
+### Project 4: Zyro.ai
+
+This project is an advanced, AI-powered content generation platform, meticulously designed and built with the MERN stack (MongoDB, Express.js, React, Node.js) and modern web technologies. It offers a seamless and intuitive experience for users to create a wide array of digital content, from text-based articles to unique images.
+
+The front-end, crafted with React and styled using Tailwind CSS, provides a modern, responsive, and intuitive user interface. On the back-end, Node.js and Express.js power a secure and efficient API that leverages advanced Google Gemini AI models for robust content generation, while MongoDB handles all data storage. Clerk is integrated for secure and streamlined user authentication and management. This project demonstrates a practical application of recent and in-demand front-end technologies, AI integration principles, and secure authentication, highlighting proficiency in creating interactive and visually appealing web applications.
+
+**Key Features**
+* **MERN Stack Implementation:** The entire project is built using MongoDB, Express.js, React, and Node.js, showcasing a modern full-stack approach.
+* **React Front-end:** The user interface is developed with React, ensuring a dynamic and interactive chat experience.
+* **Tailwind CSS Styling:** Tailwind CSS is used for front-end styling, indicating proficiency with utility-first CSS frameworks and enabling a clean, responsive design.
+* **Express.js & Node.js Backend:** The back-end is robust and efficient, built with Express.js and Node.js, responsible for all API functionalities and handling chat messages.
+* **MongoDB Database:** MongoDB is utilized for data storage, showcasing experience with NoSQL databases for managing chat history and user profiles.
+* **Google Gemini:** Deep integration of advanced AI models for efficient text and image generation, forming the core intelligence of the application.
+* **AI-Powered Content Generation:** The core of the platform, leveraging Google Gemini AI models to generate a wide range of content, demonstrating a modern AI-first approach. This includes:
+   * **Article Generation:** Create comprehensive and well-structured articles on various topics.
+   * **Blog Title Generation:** Generate catchy and SEO-friendly titles for blog posts.
+   * **Image Generation:** Produce original and contextually relevant images based on textual descriptions.
+   * **Background Removal:** Automatically remove backgrounds from images, making objects stand out.
+   * **Object Removal:** Seamlessly remove unwanted objects from images.
+   * **CV Review and Enhancement:** Get AI-powered feedback and suggestions to improve your resume/CV.
+* **Clerk Authentication:** Integration of Clerk for user authentication, highlighting the ability to implement secure and scalable user management solutions. Clerk also handles subscription management per user, allowing for flexible user access and feature control.
+
+**Live Demo:** [[Live Demo](https://zyro-ai.vercel.app/)]
+
+---
 
 ## Getting Started
 
